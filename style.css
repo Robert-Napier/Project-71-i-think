@@ -1,0 +1,59 @@
+#Name{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    text-align: center;
+}
+#button1{
+    height: 25px;
+        width: 45px;
+}
+#contact{
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+#h4{
+	font-size: 45px;
+}
+#img{
+	width:300px;
+	height: 300px;
+	border-color: black;
+	 border: 3px solid;
+}
+#camplife{
+	text-align: center;
+}
+#imgaward{
+	width:50px;
+	height:50px;
+}
+.movie_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.movie_head i {
+	float: right;
+}
+
+.movie_text span {
+	color: #ff7700;
+}
+.environment_li {
+	margin-top: 13px;
+}
+
+.environment_li h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.environment_li img {
+	border-radius: 25px;
+}
+
+.environment_li p {
+	margin-top: 10px;
+}
